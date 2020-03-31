@@ -1,0 +1,86 @@
+#what {
+	font-size:20px;
+	font-family: 'Kaushan Script', cursive;
+}
+
+#work {
+	font-family:'Montserrat', sans-serif;
+	font-size:25px;
+	margin-top:10px;
+}
+
+#e {
+	height:2px;
+	width:50px;
+	background-color:#ff8080; 
+	margin-top:30px;
+	margin-let:475px;
+}
+
+#q {
+	font-family: 'Roboto', sans-serif;
+	font-size:12px;
+	margin-top:30px;
+	color:silver;
+}
+
+#q1 {
+	position:absolute;
+	width:242px;
+	height:217px;
+	margin-left:757px;
+	margin-top:-263px;
+}
+
+#q2 {
+	position:absolute;
+	width:242px;
+	margin-top:-460px;
+	margin-left:757px;
+}
+
+
+#q3 {
+	position:absolute;
+	width:255px;
+	width:255px;
+	margin-top:-460px;
+	margin-left:502px;
+}
+
+
+#q4 {
+	position:absolute;
+	z-index:2;
+	width:255px;
+	margin-top:-253px;
+	margin-left:247px;	
+}
+
+
+#q5 {
+	position:absolute;
+	width:255px;
+	margin-top:-460px;
+	margin-left:247px;
+}
+
+
+#q6 {
+	position:absolute;
+	width:255px;
+	margin-top:-253px;
+	margin-left:-8px;
+}
+
+
+#q7 {
+	position:absolute;
+	width:255px;
+	margin-top:-460px;
+	margin-left:-8px;
+}
+
+#qq {
+	margin-top:500px;
+}

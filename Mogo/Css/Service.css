@@ -1,0 +1,97 @@
+#what {
+	font-size:20px;
+	font-family: 'Kaushan Script', cursive;
+}
+
+#work {
+	font-family:'Montserrat', sans-serif;
+	font-size:25px;
+	margin-top:10px;
+}
+
+#e {
+	height:2px;
+	width:50px;
+	background-color:#ff8080; 
+	margin-top:30px;
+}
+
+#q1 {
+	margin-top:60px;
+	margin-left:30px;
+}
+
+#ph {
+	font-family:'Montserrat', sans-serif;
+	font-weight:normal;
+	font-size:12px;
+	margin-left:85px;
+	margin-top:-40px;
+}
+
+#q2,#q3,#q4,#q5,#q6 {
+	margin-top:200px;
+}
+
+#lorem {
+	font-family:'Montserrat', sans-serif;
+	font-weight:normal;
+	font-size:13px;
+	color:silver;
+	margin-top:15px;
+	margin-left:85px;
+}
+
+
+#q2 {
+	margin-top:60px;
+	margin-left:300px;
+}
+
+#phh {
+	font-family:'Montserrat', sans-serif;
+	font-weight:normal;
+	font-size:12px;
+	margin-left:355px;
+	margin-top:-40px;
+}
+
+#loremm {
+	font-family:'Montserrat', sans-serif;
+	font-weight:normal;
+	font-size:13px;
+	color:silver;
+	margin-top:15px;
+	margin-left:355px;
+}
+
+#qq {
+	margin-left:45px;
+	margin-top:-115px;
+}
+
+#qqq {
+	margin-left:380px;
+	margin-top:-112px;
+}
+
+#er {
+	background-color:silver; 
+	width:1005px;
+	height:1px;
+	margin-top:40px;
+}
+
+#qqqq {
+	margin-left:-270px;
+}
+
+#qqqqq {
+	margin-left:40px;
+	margin-top:-112px;
+}
+
+#qqqqqq {
+	margin-left:380px;
+	margin-top:-112px;
+}
